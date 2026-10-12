@@ -6,3 +6,5 @@ licenciadas para estos recursos; no se reutilizan fuera de ellos.
 
 - `resiliencia/` — «La resiliencia se construye» (diseño AOL Pro 2D)
 - `resiliencia-v2/` — «Lo que sí sostiene la recuperación» v2: pilares, clasificar, plan de acción, recuerda, 4 fotos Envato (diseño AOL Pro 2D)
+- `espectro/` y `espectro-claro/` — «Leer la luz de las estrellas»: imágenes con zonas sobre las figuras de la presentación original, deslizador de temperatura (diseño AOL Pro 2D y claro)
+- `red-neuronal/` y `red-neuronal-claro/` — «Cómo aprende una red neuronal»: el video del curso con pausas-pregunta y zonas sobre sus cuadros (diseño AOL Pro 2D y claro)
