@@ -204,7 +204,10 @@ h3{font-size:18px;font-weight:700;margin:20px 0 6px}
 .mover:disabled{opacity:.3;cursor:default}
 .orden-correcto{background:var(--panel);border-radius:var(--rc);padding:12px 16px;font-size:15px}
 .orden-correcto ol{margin:6px 0 0 1.2em}
-.relacionar-tabla{display:grid;gap:8px;margin:12px 0}
+.relacionar-tabla{display:grid;grid-template-columns:minmax(0,1fr);gap:8px;margin:12px 0}
+/* Una opción larga no ensancha la pantalla: la lista se ajusta a su columna. */
+.relacionar-fila>*{min-width:0}.relacionar-fila select{width:100%;text-overflow:ellipsis}
+.completar-texto select{max-width:min(100%,280px)}
 .relacionar-fila{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.3fr) auto;gap:10px;align-items:center;
   background:var(--papel);border:2px solid var(--linea);border-radius:var(--rc);padding:10px 12px}
 .relacionar-fila label{font-weight:700}
@@ -322,7 +325,8 @@ h3{font-size:18px;font-weight:700;margin:20px 0 6px}
 
 @media(max-width:640px){
   body{padding-top:112px;font-size:16.5px}
-  .pantalla{padding:24px 18px 28px;border-radius:0}
+  /* De orilla a orilla: sin bordes laterales que se vean cortados. */
+  .pantalla{padding:24px 18px 28px;border-radius:0;border-left:0!important;border-right:0!important}
   main{padding:0}
   .ruta li{min-width:84px}
   .pie-donde{display:none}
@@ -534,7 +538,12 @@ body.presentacion h2{font-size:42px}
   .pie-centro .pie-donde{display:none}
   .pie-ico{width:36px;height:36px}
   .anterior-tx{display:none}
-  #anterior{padding-left:14px;padding-right:14px}
+  #anterior{padding-left:14px;padding-right:14px;flex:none}
+  /* Pantalla completa no aplica en el teléfono; «Siguiente» se ajusta al hueco
+     (aunque el teléfono tenga la letra agrandada). */
+  #presentar{display:none}
+  #siguiente{flex:1 1 auto;min-width:0;justify-content:center;padding-left:14px;padding-right:14px;
+    font-size:16px;white-space:nowrap;overflow:hidden}
 }
 
 /* ---------- imagen con zonas ---------- */
