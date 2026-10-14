@@ -1,0 +1,2665 @@
+[
+  {
+    "id": "DC-001",
+    "title": "The Village the Maps Forgot",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "rhythmic",
+      "timbre_instrumentation"
+    ],
+    "world": "imaginary_ethnography",
+    "genre": "any",
+    "difficulty": "hard",
+    "prompt": "Deep in the jungle, a village has survived untouched since before the conquest: no radio, no roads, five centuries of music passed from hand to hand. This morning, for the first time, an outsider's recorder catches their dawn ceremony. Compose that recording. Rhythm is their language, so let interlocking patterns of clay, wood, seeds, water and breath carry the meaning. Invent their instruments rather than borrowing any real people's sacred music: imagine what five hundred uninterrupted years would sound like.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Build a 60-second loop of three interlocking rhythmic patterns using objects you have (a clay pot, a wooden box, a jar of rice), plus one breathy flute-like or vocal line on top.",
+    "deep_version": "Invent 4-5 instruments (write down their names, materials and how they're played), then compose a 3-4 minute ceremony: call and response between groups, a slow acceleration into trance, and a sudden silence at the moment the villagers notice the stranger with the recorder.",
+    "tags": [
+      "founder idea",
+      "percussion",
+      "invented culture",
+      "interlocking rhythms",
+      "jungle",
+      "ritual"
+    ]
+  },
+  {
+    "id": "DC-002",
+    "title": "Sugar Overload",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "melodic",
+      "harmonic"
+    ],
+    "world": "film",
+    "genre": "romantic film score",
+    "difficulty": "easy",
+    "prompt": "They finally kiss in the rain under a bakery awning while the camera spins a full 360 degrees. Your job: the sweetest, most shamelessly syrupy love theme ever recorded. Half-step key changes are encouraged, glockenspiel sparkles are mandatory, and if a cynic doesn't roll their eyes and then secretly cry, add more strings.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 16-bar melody over I-vi-IV-V with a 'truck-driver' key change (everything jumps up a step) before the last four bars.",
+    "deep_version": "A full 1:30-2:00 cue: shy solo piano opening, the 'almost kiss' freeze (a suspended chord where everything stops), then the kiss itself with soaring strings, harp glissando and choir 'aah', a final key change, and one cheeky last chord where the dog interrupts.",
+    "tags": [
+      "founder idea",
+      "rom-com",
+      "love theme",
+      "key change",
+      "over the top",
+      "strings"
+    ]
+  },
+  {
+    "id": "DC-003",
+    "title": "Guardian of a Promise",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "harmonic",
+      "form"
+    ],
+    "world": "fantasy",
+    "genre": "orchestral / cinematic",
+    "difficulty": "hard",
+    "prompt": "Centuries ago a wizard, your only friend, asked you to guard his treasure 'until I return.' He never came back. Now knights are climbing the mountain again, and you are ancient, tired and furious. Score this attack from the DRAGON's point of view: not a monster's rage but the fury of a loyalty that has outlived its reason. Somewhere inside the fire, let us hear the friendship.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Write two 4-bar themes: a gentle, modal 'wizard's friendship' melody and a brutal fury motif. Play them back to back, then once at the same time.",
+    "deep_version": "A 2-3 minute battle cue in which the friendship theme hides inside the fury (stretched out in the low brass, broken into fragments in the strings) and only surfaces whole when the dragon spares the last knight, who turns out to be carrying the wizard's staff.",
+    "tags": [
+      "founder idea",
+      "dragon",
+      "leitmotif",
+      "battle",
+      "villain's perspective",
+      "loyalty"
+    ]
+  },
+  {
+    "id": "DC-004",
+    "title": "A Walk After Dark",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_with_twist",
+    "constraints": [
+      "harmonic",
+      "timbre_instrumentation"
+    ],
+    "world": "horror",
+    "genre": "any",
+    "difficulty": "medium",
+    "prompt": "Look at the picture and score what you see. Then score what you don't. Your cue has to be truthful to both: the warmth of their evening and the thing in the dark behind them. The audience should feel safe and uneasy at the same time, without being able to say why.",
+    "twist": "Someone is following them. About twenty meters behind, just outside the lamplight, a figure holding a knife matches their steps exactly. The couple never notices.",
+    "image_prompt": "A young couple walking hand in hand along a path in a city park at night, laughing, warm amber streetlamps, autumn leaves on the ground, soft bokeh, empty benches, cinematic wide shot from behind at a distance, cozy romantic atmosphere, 35mm film grain, 16:9",
+    "seed": null,
+    "quick_version": "An 8-bar tender melody, then repeat it with one low sustained note underneath that doesn't belong to the key.",
+    "deep_version": "Two layers that never quite agree: a romantic theme and a stalking pulse that starts almost inaudibly (sub-bass, breath, footsteps) and slowly locks to the couple's walking tempo. End when they reach their front door, and decide whether the follower gets there too.",
+    "tags": [
+      "founder idea",
+      "thriller",
+      "dual narrative",
+      "suspense",
+      "romance",
+      "night"
+    ]
+  },
+  {
+    "id": "DC-005",
+    "title": "Dinner for Five",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_with_twist",
+    "constraints": [
+      "harmonic",
+      "timbre_instrumentation"
+    ],
+    "world": "everyday",
+    "genre": "chamber music",
+    "difficulty": "medium",
+    "prompt": "A family dinner, golden light, everybody passing plates. Score the scene so that it is warm on the surface, and let something in the harmony quietly hold a place for someone. Nobody at this table says a word about it, so the music has to.",
+    "twist": "One chair is empty, with a full plate set in front of it. It belongs to the grandfather, who died exactly one year ago today. The family sets his place every year.",
+    "image_prompt": "A warm family dinner at a wooden table in a small home kitchen, five place settings, three generations laughing and passing dishes, steam rising from food, golden hour light through the window, one chair at the head of the table empty but with a served plate, candid documentary photography, soft focus, 3:2",
+    "seed": null,
+    "quick_version": "A 45-second piano piece in a major key where one chord keeps 'reaching' for a note that never resolves.",
+    "deep_version": "A 2-minute chamber piece (piano + one or two instruments) in which one instrument, the 'absent' voice, enters only once, very softly, at the moment the youngest child looks at the empty chair.",
+    "tags": [
+      "grief",
+      "family",
+      "subtext",
+      "memory",
+      "chamber"
+    ]
+  },
+  {
+    "id": "DC-006",
+    "title": "Wave from the Moon",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_with_twist",
+    "constraints": [
+      "harmonic",
+      "form"
+    ],
+    "world": "sci_fi",
+    "genre": "orchestral / cinematic",
+    "difficulty": "hard",
+    "prompt": "An astronaut stands on the Moon, waving at the blue Earth, the kind of image that ends up on stamps. Write the music for this postcard moment, and let it be heartbreakingly brave. The heroism has to be audible, and so does what she alone knows.",
+    "twist": "She knows the return module has no fuel left. Mission control doesn't know yet. She is waving goodbye.",
+    "image_prompt": "A lone astronaut standing on the lunar surface waving toward a vivid blue Earth hanging in the black sky, footprints in grey dust, a small landing module behind her, sharp shadows, high contrast, photorealistic, wide cinematic composition, 21:9",
+    "seed": null,
+    "quick_version": "A 30-second heroic fanfare that ends on a quiet, unresolved chord instead of the expected triumphant one.",
+    "deep_version": "A 2-3 minute cue in two halves: the triumphant 'mission success' theme as the world sees it, then the same theme slowed, thinned to a single instrument and reharmonized as she switches off her microphone and keeps waving.",
+    "tags": [
+      "space",
+      "sacrifice",
+      "heroism",
+      "reharmonization",
+      "bittersweet"
+    ]
+  },
+  {
+    "id": "DC-007",
+    "title": "The Pigeon Man",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_with_twist",
+    "constraints": [
+      "rhythmic",
+      "timbre_instrumentation"
+    ],
+    "world": "comedy",
+    "genre": "jazz",
+    "difficulty": "medium",
+    "prompt": "An old man on a bench feeds pigeons in a sunny European square. Very calm. Very ordinary. Score it so that the calm is just a little too calm, and the jazz has a trench coat on under the cardigan.",
+    "twist": "He is a retired spy. Today, after 40 years of waiting, one of the pigeons is carrying the coded message he was told would come.",
+    "image_prompt": "An elderly man in a beige cardigan and flat cap sitting on a park bench in a sunny cobblestone European square, feeding a flock of pigeons, a fountain and café tables in the background, warm afternoon light, gentle and peaceful mood, street photography, 4:3",
+    "seed": null,
+    "quick_version": "A 40-second lazy swing tune with one sneaky chromatic bass line that sounds like a spy theme in disguise.",
+    "deep_version": "A 2-minute cue that starts as innocent café jazz and slowly turns into a full 1960s spy thriller the moment one particular pigeon lands, then snaps back to innocence when a tourist walks by.",
+    "tags": [
+      "spy",
+      "comedy",
+      "jazz",
+      "double life",
+      "slow reveal"
+    ]
+  },
+  {
+    "id": "DC-008",
+    "title": "The Lantern Fair",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_with_twist",
+    "constraints": [
+      "melodic",
+      "timbre_instrumentation"
+    ],
+    "world": "fantasy",
+    "genre": "any",
+    "difficulty": "medium",
+    "prompt": "A small village fair at dusk, strings of paper lanterns glowing over the stalls. Write the music of the fair, and then let us feel that tonight is not a normal night. Something is about to leave, and it's beautiful, not scary.",
+    "twist": "The lanterns are not lanterns. They are sleeping creatures that have lived with the village all year, and tonight they wake up and fly away forever.",
+    "image_prompt": "A tiny mountain village fair at dusk, hundreds of glowing paper lanterns strung above wooden stalls, children and families walking, warm orange light against a deep blue sky, mist in the valley behind, painterly storybook illustration, 16:9",
+    "seed": null,
+    "quick_version": "A simple 8-bar folk dance tune, then repeat it with a high shimmering texture that 'lifts off' at the end.",
+    "deep_version": "A 2-minute piece: a lively fair dance that slowly dissolves as the lanterns detach one by one (each one a rising note or chime), ending with the village silent below a sky full of drifting lights.",
+    "tags": [
+      "fantasy",
+      "folk dance",
+      "magic",
+      "wonder",
+      "farewell"
+    ]
+  },
+  {
+    "id": "DC-009",
+    "title": "Encore for No One",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_with_twist",
+    "constraints": [
+      "form",
+      "timbre_instrumentation"
+    ],
+    "world": "sci_fi",
+    "genre": "solo piano",
+    "difficulty": "hard",
+    "prompt": "A pianist performs alone on a grand stage in an empty concert hall, lit by a single spotlight. Write what is being played, and write it so that by the last bar we feel the strangeness of who is listening.",
+    "twist": "The figure on stage is a hologram. The real pianist, now 90 and unable to play, is sitting alone in row 12, watching a recording of herself from fifty years ago.",
+    "image_prompt": "A grand piano on a vast concert hall stage lit by a single cold spotlight, a pianist in a black dress mid-performance, thousands of empty red velvet seats in darkness, dust in the light beam, cinematic, slightly cool color grade, wide shot from the back of the hall, 16:9",
+    "seed": null,
+    "quick_version": "A 1-minute piano piece in which the left hand repeats exactly while the right hand slowly 'forgets' the melody.",
+    "deep_version": "A 3-minute piano piece (or piano + subtle electronics) where a virtuosic, perfect performance gradually develops tiny glitches (repeated notes, a frozen chord, a digital shimmer) while a second, human, imperfect line hums along from far away.",
+    "tags": [
+      "piano",
+      "hologram",
+      "memory",
+      "AI",
+      "identity",
+      "glitch"
+    ]
+  },
+  {
+    "id": "DC-010",
+    "title": "Platform 4, Departing",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_with_twist",
+    "constraints": [
+      "melodic"
+    ],
+    "world": "comedy",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "A golden retriever sits on a train platform, looking hopefully down the tracks. Everybody who sees this picture assumes the dog is waiting for someone. Write a short theme that works both ways: loyal and sweet, but with a wink of adventure.",
+    "twist": "The dog is not waiting for anyone. It is a time traveler, and this is its train home to the year 2380.",
+    "image_prompt": "A golden retriever sitting alone on an old railway platform, looking down the tracks with a hopeful expression, morning light, a vintage station clock, a small leather pouch on its collar, gentle film photography, shallow depth of field, 4:5",
+    "seed": null,
+    "quick_version": "A 20-second whistle-able melody that starts tender and ends with a mischievous leap.",
+    "deep_version": "A 1:30 cue: a tender 'faithful dog' theme that turns into a bouncy adventure march when the train arrives and the dog boards it on its own, with a tiny ticket in its collar.",
+    "tags": [
+      "dog",
+      "comedy",
+      "time travel",
+      "whistle",
+      "misdirection"
+    ]
+  },
+  {
+    "id": "DC-011",
+    "title": "The Lighthouse That Walks",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_with_twist",
+    "constraints": [
+      "rhythmic",
+      "harmonic"
+    ],
+    "world": "fantasy",
+    "genre": "ambient",
+    "difficulty": "medium",
+    "prompt": "A white lighthouse on a cliff at sunset, the sea flat and golden. Nothing seems to move. Write music that is almost perfectly still, and yet, if you listen closely, is going somewhere very slowly.",
+    "twist": "The lighthouse is walking. Every night it moves exactly one meter closer to the sea. Nobody in town has noticed in 300 years, and tomorrow it reaches the edge.",
+    "image_prompt": "A tall white lighthouse on a grassy cliff at sunset, calm golden sea below, long shadows, a narrow path in the grass behind it, peaceful and still, painterly realism, wide landscape composition, 16:9",
+    "seed": null,
+    "quick_version": "A 1-minute drone or pad piece where a single note changes every 8 seconds, so slowly that you notice it only in retrospect.",
+    "deep_version": "A 3-minute piece built on an extremely slow, heavy 'footstep' pulse (one beat every 4-6 seconds) under a calm sunset texture, gradually moving from the tonic toward a new key, the way the lighthouse moves toward the sea.",
+    "tags": [
+      "surreal",
+      "slow music",
+      "drone",
+      "sea",
+      "patience"
+    ]
+  },
+  {
+    "id": "DC-012",
+    "title": "First Prize",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_with_twist",
+    "constraints": [
+      "form",
+      "duration"
+    ],
+    "world": "comedy",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "A school science fair: a proud kid with a papier-mache volcano and a blue ribbon. Write 30 seconds of music for this triumphant moment, and let the last few seconds suggest that this is about to get very, very out of hand.",
+    "twist": "The volcano is real. A tiny, perfectly working volcano. And it's about to erupt.",
+    "image_prompt": "A proud ten-year-old standing next to a papier-mache volcano at a school science fair in a gymnasium, wearing safety goggles and a blue first-place ribbon, other projects on folding tables in the background, bright cheerful lighting, candid photo style, 4:3",
+    "seed": null,
+    "quick_version": "A 30-second victory jingle that ends with a low rumble.",
+    "deep_version": "A 1:30 comic cue: proud fanfare, a judge's polite clapping, a first little 'blorp', and a full disaster-movie finale as the gym evacuates, all while the kid's theme keeps playing triumphantly on top.",
+    "tags": [
+      "comedy",
+      "cartoon",
+      "disaster",
+      "kids",
+      "mickey mousing"
+    ]
+  },
+  {
+    "id": "DC-013",
+    "title": "Last Call, Ice Cream",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_with_twist",
+    "constraints": [
+      "melodic",
+      "timbre_instrumentation"
+    ],
+    "world": "horror",
+    "genre": "ambient",
+    "difficulty": "medium",
+    "prompt": "A pastel ice-cream truck on an empty suburban street at dusk, its little speaker playing a tune. Write that tune, and then write the version of it that we hear when we know the truth.",
+    "twist": "No one in this town has bought ice cream in twenty years. Every family moved away after the summer it first appeared. The truck still comes every evening at 7:14.",
+    "image_prompt": "A pastel pink and mint vintage ice-cream truck parked on an empty suburban street at dusk, lights on, small speaker on the roof, identical houses with dark windows, overgrown lawns, long shadows, slightly eerie color grade, cinematic, 16:9",
+    "seed": null,
+    "quick_version": "Compose an 8-bar music-box jingle, then play it again slightly detuned and slowed down.",
+    "deep_version": "A 2-minute horror cue built entirely from your original jingle: music-box version, a warped tape version, low drones made from the jingle stretched 10x, and a final moment where the jingle stops mid-phrase.",
+    "tags": [
+      "horror",
+      "music box",
+      "suburbia",
+      "detune",
+      "creepy cute"
+    ]
+  },
+  {
+    "id": "DC-014",
+    "title": "Level 3-2: The Sunken Library",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_only",
+    "constraints": [
+      "timbre_instrumentation",
+      "form"
+    ],
+    "world": "game",
+    "genre": "ambient",
+    "difficulty": "medium",
+    "prompt": "Every game has a water level, and the best ones have unforgettable music. Score this one: slow, floaty, a little lonely, with the sense that sound itself bends underwater. The player will hear your loop for twenty minutes, so make it a place, not a song.",
+    "twist": null,
+    "image_prompt": "A video game underwater level: a sunken ancient library with coral-covered bookshelves, turquoise shafts of light from the surface, floating pages and bubbles, small glowing fish, a stone reading desk, painterly 2D game art, serene and mysterious, 16:9",
+    "seed": null,
+    "quick_version": "Pad + slow arpeggio + one melody, a 30-second loop, with a low-pass filter or chorus to sell 'underwater'.",
+    "deep_version": "A 2-minute seamless loop with two mixes of the same music: an 'underwater' version (muffled, wobbly, reverberant) and a dry 'surface' version that a game could crossfade to when the player comes up for air.",
+    "tags": [
+      "water level",
+      "loop",
+      "game audio",
+      "ambient",
+      "adaptive"
+    ]
+  },
+  {
+    "id": "DC-015",
+    "title": "Neon Market in the Rain",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_only",
+    "constraints": [
+      "timbre_instrumentation"
+    ],
+    "world": "sci_fi",
+    "genre": "synthwave",
+    "difficulty": "easy",
+    "prompt": "A night market in a future city: rain, neon signs, steam from noodle stalls, a robot vendor counting coins. Put us inside this street. Let the rain be part of the music.",
+    "twist": null,
+    "image_prompt": "A crowded cyberpunk night market in heavy rain, glowing neon signs in many colors reflected in puddles, steam rising from food stalls, a humanoid robot vendor under a plastic awning, people with transparent umbrellas, cinematic, moody teal and magenta palette, 16:9",
+    "seed": null,
+    "quick_version": "A 45-second synth loop with a rain sample, a pad and a simple bass line.",
+    "deep_version": "A 2-minute track that walks us through the market: start far away (muffled, reverberant), pass three distinct stalls (each one a new sound), and end under an awning listening to the rain.",
+    "tags": [
+      "cyberpunk",
+      "synthwave",
+      "rain",
+      "city",
+      "atmosphere"
+    ]
+  },
+  {
+    "id": "DC-016",
+    "title": "The Greenhouse at Dawn",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_only",
+    "constraints": [
+      "melodic",
+      "harmonic"
+    ],
+    "world": "nature",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "An abandoned Victorian greenhouse, its glass half broken, plants taking over, first sunlight through the panes. Write the moment the light arrives.",
+    "twist": null,
+    "image_prompt": "An abandoned Victorian glass greenhouse at sunrise, broken panes, ferns and vines growing through iron frames, first golden light streaming through dusty glass, floating dust particles, a rusted watering can on the floor, soft romantic photography, 3:2",
+    "seed": null,
+    "quick_version": "A 40-second piece that begins on a single sustained note and blooms into a full chord.",
+    "deep_version": "A 2-minute piece in which each 'plant' is a melodic line that grows slowly from the bottom register upward, until the full texture fills the room like vines across glass.",
+    "tags": [
+      "dawn",
+      "nature",
+      "growth",
+      "light",
+      "slow bloom"
+    ]
+  },
+  {
+    "id": "DC-017",
+    "title": "The 4:10 to Nowhere",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_only",
+    "constraints": [
+      "rhythmic",
+      "timbre_instrumentation"
+    ],
+    "world": "film",
+    "genre": "spaghetti western",
+    "difficulty": "medium",
+    "prompt": "A steam train crossing an endless desert under a white sun, one rider on horseback racing alongside. Score it like a western, with the chug of the train as your rhythm section.",
+    "twist": null,
+    "image_prompt": "A black steam locomotive crossing an endless orange desert under a harsh white sun, smoke trailing behind, a lone rider on horseback galloping alongside, heat haze, distant mesas, epic wide shot, cinemascope 2.39:1",
+    "seed": null,
+    "quick_version": "A 45-second loop: a train-rhythm groove (brushes, shaker or palm muting) plus a twangy guitar or whistled melody.",
+    "deep_version": "A 2-minute western cue: lonely whistle intro, galloping train rhythm, a big trumpet or choir climax as the rider reaches the train, and a sudden cut to wind.",
+    "tags": [
+      "western",
+      "train",
+      "desert",
+      "chase",
+      "whistle"
+    ]
+  },
+  {
+    "id": "DC-018",
+    "title": "Aurora over the Fishing Village",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_only",
+    "constraints": [
+      "harmonic",
+      "timbre_instrumentation"
+    ],
+    "world": "nature",
+    "genre": "any",
+    "difficulty": "medium",
+    "prompt": "Green auroras ripple over a tiny Arctic fishing village, red wooden houses, boats frozen in the harbor. It's minus 25. Make music that feels like cold air and slow, enormous light.",
+    "twist": null,
+    "image_prompt": "Vivid green and violet aurora borealis over a small Arctic fishing village at night, red wooden houses with warm lit windows, small boats in a frozen harbor, snow-covered mountains, stars, long exposure photography, 16:9",
+    "seed": null,
+    "quick_version": "A 1-minute piece using only open fifths and one shimmering high texture.",
+    "deep_version": "A 2-3 minute piece where the harmony 'ripples' like the aurora: slowly shifting chords (try chromatic mediants: C major to E major, A-flat major...) over a frozen pedal tone, with one warm human melody from inside a lit window.",
+    "tags": [
+      "aurora",
+      "arctic",
+      "cold",
+      "shimmer",
+      "pedal point"
+    ]
+  },
+  {
+    "id": "DC-019",
+    "title": "Monastery in the Clouds",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_only",
+    "constraints": [
+      "timbre_instrumentation",
+      "process"
+    ],
+    "world": "nature",
+    "genre": "choral",
+    "difficulty": "easy",
+    "prompt": "A stone monastery on a mountain peak, above a sea of clouds at sunrise. Write a short piece in which your own voice is the main instrument: hum, sing, chant, layer. Let the space be enormous.",
+    "twist": null,
+    "image_prompt": "A stone monastery perched on a mountain peak above a sea of clouds at sunrise, prayer flags, golden light on the walls, distant peaks emerging from mist, majestic and silent, landscape photography, 16:9",
+    "seed": null,
+    "quick_version": "Record a 30-second hum or vowel on one note, then layer three more takes on different notes with lots of reverb.",
+    "deep_version": "A 2-minute piece for layered voice (yours only) built like an invented chant: a drone, a melody that moves mostly stepwise, and a moment where all voices meet on one unison note.",
+    "tags": [
+      "voice",
+      "chant",
+      "layering",
+      "reverb",
+      "sunrise"
+    ]
+  },
+  {
+    "id": "DC-020",
+    "title": "The Ballroom Beneath the Waves",
+    "day_slot": "mon_picture_it",
+    "credit": "Claude",
+    "format": "image_only",
+    "constraints": [
+      "form",
+      "rhythmic"
+    ],
+    "world": "fantasy",
+    "genre": "orchestral / cinematic",
+    "difficulty": "hard",
+    "prompt": "A grand ballroom at the bottom of the ocean, chandeliers swaying with the currents, ghostly couples dancing among the fish. Write the waltz they're dancing to: elegant, slightly drowned, eternally repeating.",
+    "twist": null,
+    "image_prompt": "An ornate 19th-century ballroom at the bottom of the ocean, crystal chandeliers swaying in the current, translucent ghostly couples in gowns and tailcoats dancing, schools of silver fish, shafts of blue light, gilded columns covered with barnacles, dreamlike digital painting, 16:9",
+    "seed": null,
+    "quick_version": "A 16-bar waltz melody with an oom-pah-pah accompaniment, then the same 16 bars with heavy reverb and pitch wobble.",
+    "deep_version": "A full concert-style waltz (2-3 min): an introduction, two contrasting waltz themes and a coda, orchestrated so it sounds both like a 19th-century ballroom and like it's heard through 200 meters of water.",
+    "tags": [
+      "waltz",
+      "underwater",
+      "ghost",
+      "romantic era",
+      "orchestration"
+    ]
+  },
+  {
+    "id": "DC-021",
+    "title": "Three Notes, No More",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "melodic"
+    ],
+    "world": "abstract",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "Pick any three pitches. That is your entire melodic universe today: any octave, any rhythm, but only those three. Great melodies have lived in smaller rooms than this (a doorbell says a lot with two). Prove that a limit can feel like freedom.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "One 8-bar melody using your three notes, sung or played on any instrument, with no accompaniment.",
+    "deep_version": "A complete piece where harmony, bass and texture move freely but the melody never leaves the three notes. Make the same three notes sound joyful in section A and devastating in section B.",
+    "tags": [
+      "basics",
+      "melody",
+      "limitation",
+      "beginner friendly"
+    ]
+  },
+  {
+    "id": "DC-022",
+    "title": "Kitchen Philharmonic",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "process",
+      "timbre_instrumentation"
+    ],
+    "world": "everyday",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "No instruments today, only what lives in your kitchen: pots, glasses filled to different heights, a whisk, a jar of rice, the fridge hum, the drip of the tap. Record them, tune them, loop them, and make music that sounds like it was always meant to be played on a cutting board.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Record four kitchen sounds on your phone and loop them into a 30-second groove.",
+    "deep_version": "A complete track: tune water glasses to a scale for the melody, pitch a pot lid down into a bass, design a snare from a slammed drawer. Bonus points for filming the session.",
+    "tags": [
+      "found sounds",
+      "kitchen",
+      "percussion",
+      "sampling",
+      "process"
+    ]
+  },
+  {
+    "id": "DC-023",
+    "title": "The Paper Minuet",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "process",
+      "form"
+    ],
+    "world": "abstract",
+    "genre": "baroque",
+    "difficulty": "hard",
+    "prompt": "Write before you play. Using only paper (or notation software with playback muted), compose a minuet in 3/4: two 8-bar halves, each repeated. No instrument and no listening until the last barline is written. Then record it exactly as written and let us hear your inner ear's honest first draft.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Write just the first 8-bar half (melody + bass line) on paper, then record it once, as written.",
+    "deep_version": "A complete minuet and trio (16 + 16 bars, da capo) for two instruments, written entirely in silence. Upload the recording with a photo of your manuscript, mistakes included.",
+    "tags": [
+      "write before you play",
+      "minuet",
+      "inner hearing",
+      "notation",
+      "classical form"
+    ]
+  },
+  {
+    "id": "DC-024",
+    "title": "Catch Your Own Ghost",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "process",
+      "melodic"
+    ],
+    "world": "abstract",
+    "genre": "any",
+    "difficulty": "medium",
+    "prompt": "Hit record and improvise freely for two minutes: no plan, no stopping. Now listen back like a detective and find the best four seconds you didn't know you played. Transcribe them by ear, note for note, and build a whole piece out of that happy accident.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Transcribe the best 2 bars of your improvisation and loop or develop them into a 45-second sketch.",
+    "deep_version": "Transcribe a full phrase, then compose a short piece that develops it (sequence it, invert it, harmonize it). Start your upload with the raw improv snippet so we can hear where it came from.",
+    "tags": [
+      "transcribe what you played",
+      "improvisation",
+      "ear training",
+      "development"
+    ]
+  },
+  {
+    "id": "DC-025",
+    "title": "Subject for a Fugue",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "seed",
+    "constraints": [
+      "form",
+      "melodic"
+    ],
+    "world": "abstract",
+    "genre": "baroque",
+    "difficulty": "hard",
+    "prompt": "Here is a fugue subject. Write the exposition: the subject alone in one voice, then the answer a fifth higher in a second voice while the first continues with a countersubject, then the third voice enters. Any instruments, any style: strings, synths, a jazz trio, or a choir made of your own voice.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": "Fugue subject, D minor, 4/4, two bars: | D4 (quarter) A4 (quarter) F4 (eighth) E4 (eighth) D4 (quarter) | C#4 (eighth) D4 (eighth) E4 (quarter) A3 (half) |",
+    "quick_version": "Two voices only: the subject, then the answer plus a simple countersubject (about 8 bars).",
+    "deep_version": "A full 3- or 4-voice exposition plus a first episode, ending with a cadence in the relative major (F). Bonus: orchestrate it in a non-classical genre.",
+    "tags": [
+      "fugue",
+      "counterpoint",
+      "baroque",
+      "seed"
+    ]
+  },
+  {
+    "id": "DC-026",
+    "title": "Seven-Eight Commute",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "rhythmic"
+    ],
+    "world": "everyday",
+    "genre": "any",
+    "difficulty": "medium",
+    "prompt": "Your morning commute never quite lines up: the bus is early, the coffee is late, the escalator is always one step off. Write a piece in 7/8 (grouped 2+2+3 or 3+2+2, your call) that captures that hurried, lopsided city energy. It should groove so naturally that we forget to count.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 7/8 drum or body-percussion loop plus a bass riff, 30 seconds.",
+    "deep_version": "A 2-minute track that switches its grouping halfway (2+2+3 to 3+2+2) and drops in one single bar of 4/4 at the climax, like a missed train.",
+    "tags": [
+      "odd meter",
+      "7/8",
+      "groove",
+      "city"
+    ]
+  },
+  {
+    "id": "DC-027",
+    "title": "The Ostinato That Would Not Move",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "rhythmic",
+      "harmonic"
+    ],
+    "world": "abstract",
+    "genre": "minimalism",
+    "difficulty": "medium",
+    "prompt": "Write one ostinato, a short repeating figure of one or two bars, and never change it. Not one note, for the entire piece. Everything else must move around it: harmony, melody, orchestration, mood. The ostinato is the sun; you are writing the seasons.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 1-minute piece: the ostinato plus three chord changes underneath it that make it feel different each time.",
+    "deep_version": "A 3-minute piece in which the unchanging ostinato is reharmonized at least five ways, passes through a dark section and a bright one, and ends with everything gone except the ostinato.",
+    "tags": [
+      "ostinato",
+      "minimalism",
+      "reharmonization",
+      "repetition"
+    ]
+  },
+  {
+    "id": "DC-028",
+    "title": "Mouth Machine",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "process",
+      "timbre_instrumentation"
+    ],
+    "world": "everyday",
+    "genre": "a cappella / beatbox",
+    "difficulty": "medium",
+    "prompt": "Every sound in today's track comes from your mouth: kick, snare, bass, pads, melody. Beatbox, hum, click, whistle, sing, breathe. Layer as many tracks as you like, but if it didn't come out of your body, it doesn't go in.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 30-second beatbox loop with one hummed bass line on top.",
+    "deep_version": "A full 2-minute a cappella production in any genre (house, R&B, film score...): beatboxed drums, a sung bass, vocal pads, a lead line, and one surprising mouth sound used as an effect.",
+    "tags": [
+      "voice only",
+      "beatbox",
+      "a cappella",
+      "layering"
+    ]
+  },
+  {
+    "id": "DC-029",
+    "title": "Sixteen Bars About Your Block",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "lyrics",
+      "rhythmic"
+    ],
+    "world": "everyday",
+    "genre": "boom bap",
+    "difficulty": "medium",
+    "prompt": "Write and record 16 bars about the street where you live: not the city, the street. The woman selling tamales at 7 a.m., the broken traffic light, the sound at 2 a.m. One real detail beats ten metaphors. Flow over a beat you make yourself.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "8 bars over a simple 90 bpm loop, with at least three concrete details from your actual street.",
+    "deep_version": "A full verse plus a hook over your own beat, with internal rhymes and one sample you recorded on that street (a door, a vendor's call, a bus).",
+    "tags": [
+      "rap",
+      "lyrics",
+      "hip hop",
+      "storytelling",
+      "field recording"
+    ]
+  },
+  {
+    "id": "DC-030",
+    "title": "Four Chords, Your Fingerprints",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "seed",
+    "constraints": [
+      "harmonic"
+    ],
+    "world": "abstract",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "These are probably the most-used four chords of the last thirty years. That's exactly the challenge: make them yours. Same four chords, in this order, but your rhythm, your voicings, your melody, your genre, so different that nobody hears the cliché.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": "Am - F - C - G (i - VI - III - VII in A minor), one bar each, 4/4, around 80 bpm, repeating.",
+    "quick_version": "Loop the progression in any rhythm you like and put a 16-bar melody on top.",
+    "deep_version": "A complete piece where the progression never changes but the arrangement transforms three times (say acoustic, then electronic, then orchestral), with a melody that evolves each time.",
+    "tags": [
+      "chord progression",
+      "seed",
+      "arranging",
+      "pop"
+    ]
+  },
+  {
+    "id": "DC-031",
+    "title": "Clave Conversation",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "seed",
+    "constraints": [
+      "rhythmic"
+    ],
+    "world": "everyday",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "The son clave is a five-stroke pattern born in Afro-Cuban music that holds together salsa, rumba and countless other styles. Use it as the backbone of your piece in any genre you like: the clave must be audible (on a woodblock, a click, a clap, a sample), and everything else has to have a conversation with it.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": "3-2 son clave, 16 steps (x = hit, . = rest): x . . x . . x . | . . x . x . . .",
+    "quick_version": "A 30-second groove: clave + one bass line that answers it.",
+    "deep_version": "A 2-minute track in a genre far from salsa (techno, folk, string quartet...) where the clave is the hidden skeleton of every part. Include a one-sentence note on what you learned about where the clave comes from.",
+    "tags": [
+      "clave",
+      "Afro-Cuban",
+      "groove",
+      "seed",
+      "respectful borrowing"
+    ]
+  },
+  {
+    "id": "DC-032",
+    "title": "Ground Bass",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "seed",
+    "constraints": [
+      "form",
+      "harmonic"
+    ],
+    "world": "abstract",
+    "genre": "baroque",
+    "difficulty": "hard",
+    "prompt": "A passacaglia is built over a bass line that repeats from beginning to end while everything above it keeps changing. Here is your ground. Write at least eight variations on top of it and make the piece grow, like a building going up floor by floor on the same foundation.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": "Ground bass in G minor, 3/4, one note per bar, repeating: | G2 | F2 | E-flat2 | D2 |",
+    "quick_version": "Four variations over the ground: 1) long notes, 2) a flowing melody, 3) a rhythmic figure, 4) everything together.",
+    "deep_version": "Eight or more variations with a clear arc (quiet beginning, a climax around variation six, a hushed ending) in any instrumentation, even a beat with a sampled bass. Bonus: one variation where the ground moves to the top voice.",
+    "tags": [
+      "passacaglia",
+      "ground bass",
+      "variations",
+      "seed",
+      "baroque"
+    ]
+  },
+  {
+    "id": "DC-033",
+    "title": "The Basement Bass Line",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "seed",
+    "constraints": [
+      "rhythmic",
+      "timbre_instrumentation"
+    ],
+    "world": "everyday",
+    "genre": "funk",
+    "difficulty": "medium",
+    "prompt": "A bass line was found scribbled on the wall of a rehearsal basement. Build the band around it. The bass is the boss today: the drums lock to it, the guitar or keys answer it, and the horns (real or fake) punctuate it.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": "E minor, 4/4, 100 bpm, one bar in sixteenths (- = rest): | E2 - - E2  - G2 - A2  - - E3 -  D3 B2 - - |",
+    "quick_version": "Loop the bass line, add drums and one chord stab, 30-45 seconds.",
+    "deep_version": "A full 2-3 minute funk track with intro, groove, breakdown (bass alone), horn hits, and a final groove that goes up a step.",
+    "tags": [
+      "funk",
+      "bass line",
+      "groove",
+      "seed",
+      "band"
+    ]
+  },
+  {
+    "id": "DC-034",
+    "title": "Ding-Dong Variations",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "seed",
+    "constraints": [
+      "melodic"
+    ],
+    "world": "everyday",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "Two notes: the doorbell. Use them as the opening of your melody and see how far you can get from the front door. Who's ringing? Good news or bad?",
+    "twist": null,
+    "image_prompt": null,
+    "seed": "Two-note motif: E5 (half note) - C5 (half note), any tempo, any key once you start.",
+    "quick_version": "A 20-second melody that starts with the two-note doorbell motif and answers it.",
+    "deep_version": "A 1:30 piece in which the doorbell motif returns at least four times, each time with a different harmony that changes who we think is at the door.",
+    "tags": [
+      "motif",
+      "seed",
+      "development",
+      "beginner friendly"
+    ]
+  },
+  {
+    "id": "DC-035",
+    "title": "Pedal to the Sky",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "seed",
+    "constraints": [
+      "harmonic",
+      "timbre_instrumentation"
+    ],
+    "world": "film",
+    "genre": "orchestral / cinematic",
+    "difficulty": "hard",
+    "prompt": "This progression floats over a constant C in the bass and sounds like an epic trailer waiting to happen. Write the trailer: a slow build of 60-90 seconds that ends on the movie title. The pedal note never moves, and that is where the tension lives.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": "Over a constant C in the bass, one chord per bar, 4/4: | Cmaj7 | B-flat maj7 / C | A-flat maj7 / C | Gsus4 / C |",
+    "quick_version": "Loop the four chords over the pedal with a pulsing string or synth rhythm and add one long melody on top, about 45 seconds.",
+    "deep_version": "A full 'trailer cue' in three acts: atmospheric opening, a rhythmic build with risers and hits, a huge final statement, and a dead stop for the title card, then one last low boom.",
+    "tags": [
+      "trailer",
+      "pedal point",
+      "epic",
+      "seed",
+      "build"
+    ]
+  },
+  {
+    "id": "DC-036",
+    "title": "Twelve Strangers",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "seed",
+    "constraints": [
+      "melodic",
+      "harmonic"
+    ],
+    "world": "abstract",
+    "genre": "any",
+    "difficulty": "hard",
+    "prompt": "Here are all twelve notes, each used once, in a fixed order: a tone row. Your task is to make it sing. Use the row (and if you like its inversion, retrograde or transpositions) as the source of your melody and harmony, and write something expressive, not academic. Atonal can be tender.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": "Tone row: E - F - G - C-sharp - F-sharp - D-sharp - G-sharp - D - B-flat - C - A - B",
+    "quick_version": "Play the row as a melody with your own rhythm, then play it backwards: a 30-second miniature.",
+    "deep_version": "A 2-3 minute piece built from the row's four forms, with clear phrasing, a lyrical climax and a soft ending. It can be film underscore, a jazz head or a solo piano piece.",
+    "tags": [
+      "twelve-tone",
+      "serialism",
+      "seed",
+      "atonal",
+      "advanced"
+    ]
+  },
+  {
+    "id": "DC-037",
+    "title": "Body Orchestra",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "process",
+      "rhythmic"
+    ],
+    "world": "everyday",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "Your only instrument today is your body: claps, finger snaps, chest pats, thigh slaps, stomps, cheek pops, breath. Body percussion is one of the oldest musics on Earth. Make it groove.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 30-second body-percussion loop with at least four different body sounds.",
+    "deep_version": "A 2-minute layered piece with a real form (intro, groove, break, finale), several tempos or feels, and at least one passage where body sounds imitate a melodic instrument.",
+    "tags": [
+      "body percussion",
+      "rhythm",
+      "no gear",
+      "process"
+    ]
+  },
+  {
+    "id": "DC-038",
+    "title": "Theme and Five Faces",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "form",
+      "melodic"
+    ],
+    "world": "abstract",
+    "genre": "any",
+    "difficulty": "hard",
+    "prompt": "Write a short, simple theme, 8 bars that a child could hum. Then write five variations that show its five faces: one in a minor key, one in a dance rhythm, one where the melody is hidden inside a texture, one in a completely different genre, and one that's just the bare bones. The listener should always recognize the theme.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Theme + two variations, about 1 minute in total.",
+    "deep_version": "Theme + five contrasting variations + a coda that brings back the theme changed by everything it went through (3-4 minutes).",
+    "tags": [
+      "theme and variations",
+      "classical form",
+      "development"
+    ]
+  },
+  {
+    "id": "DC-039",
+    "title": "Row, Row, Rewrite",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "form",
+      "melodic"
+    ],
+    "world": "comedy",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "Write a round: a melody that sounds good when the same tune enters again, a few bars later, on top of itself (like 'Frère Jacques'). Three entries minimum. Bonus if the lyrics are about something mundane, like waiting for the microwave.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 4-bar melody that works as a 2-voice round; sing or play both parts.",
+    "deep_version": "A 3-voice or 4-voice round with lyrics, recorded in layers, that ends with the voices dropping out one by one.",
+    "tags": [
+      "canon",
+      "round",
+      "counterpoint",
+      "voice",
+      "lyrics"
+    ]
+  },
+  {
+    "id": "DC-040",
+    "title": "Sonatina in an Afternoon",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "form",
+      "harmonic"
+    ],
+    "world": "abstract",
+    "genre": "chamber music",
+    "difficulty": "hard",
+    "prompt": "Write the exposition of a sonata-form movement: a first theme in the home key, a transition that modulates, a contrasting second theme in a new key, and a closing section. It's the architecture Mozart and Beethoven built on, and it still works for film and games.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A first theme (8 bars) and a contrasting second theme (8 bars) in the dominant key, with a two-bar link.",
+    "deep_version": "A complete exposition (about 1:30-2:30) for piano or a small ensemble, with a clear modulation, contrasting characters and a cadence that would make you want to hear the development.",
+    "tags": [
+      "sonata form",
+      "classical form",
+      "modulation",
+      "piano"
+    ]
+  },
+  {
+    "id": "DC-041",
+    "title": "A Choir of One",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "process",
+      "lyrics",
+      "form"
+    ],
+    "world": "abstract",
+    "genre": "choral",
+    "difficulty": "hard",
+    "prompt": "You are the entire choir: soprano, alto, tenor, bass, all sung by you, transposing octaves if you need to. Set a short text (your own, or a public-domain poem) for four parts and record each one separately. The miracle of choral music is many breaths becoming one.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 4-bar, four-part chord progression sung on 'ah' and layered.",
+    "deep_version": "A 2-minute four-part setting of a short text, with at least one passage of imitation (voices entering one after another) and one of homophony (all voices together).",
+    "tags": [
+      "voice only",
+      "choral",
+      "multitrack",
+      "text setting",
+      "lyrics"
+    ]
+  },
+  {
+    "id": "DC-042",
+    "title": "Haiku Song",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "lyrics",
+      "duration"
+    ],
+    "world": "nature",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "Write a haiku (5-7-5 syllables) about something you saw today, then sing it. Seventeen syllables, one image, one breath of music. Small is not easy.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Write the haiku and sing it once with a single accompanying sound.",
+    "deep_version": "Set three haiku as a tiny song cycle (one per season, or per hour of your day), connected by short instrumental interludes.",
+    "tags": [
+      "lyrics",
+      "haiku",
+      "song",
+      "miniature",
+      "beginner friendly"
+    ]
+  },
+  {
+    "id": "DC-043",
+    "title": "Twelve Beats of Fire",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "rhythmic",
+      "timbre_instrumentation"
+    ],
+    "world": "everyday",
+    "genre": "flamenco-inspired",
+    "difficulty": "hard",
+    "prompt": "Flamenco organizes time in a 12-beat cycle (compás) with accents that make it feel like it's always about to explode. Learn the soleá/bulería accent pattern below and build a piece on it. Respect the tradition: listen to two recordings by flamenco artists first and name them in your post. Then write something honest in your own voice.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Clap the 12-beat pattern (accents on 3, 6, 8, 10, 12) and put a guitar or keyboard figure on top, 30 seconds.",
+    "deep_version": "A 2-3 minute piece over the 12-beat cycle with a rhythmic 'call', a melodic section in the Phrygian mode (E-F-G-A-B-C-D, or with G-sharp), a percussive break, and a closing that lands exactly on beat 10.",
+    "tags": [
+      "flamenco",
+      "compás",
+      "12-beat cycle",
+      "Phrygian",
+      "respectful study"
+    ]
+  },
+  {
+    "id": "DC-044",
+    "title": "Drone and Dawn",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "harmonic",
+      "melodic"
+    ],
+    "world": "nature",
+    "genre": "any",
+    "difficulty": "medium",
+    "prompt": "Many of the world's great musical traditions rest on a drone, a note that never stops, and a melody that explores its relationship with it. Write a dawn piece over a single drone (tanpura, synth, bagpipe, a hummed note) using one scale only. If you borrow a specific raga or maqam, learn its rules and name it with respect.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 1-minute slow melody over a drone, using just five notes of your scale.",
+    "deep_version": "A 3-minute piece that starts slow and free (no beat), introduces a pulse halfway, and accelerates gently toward sunrise, never leaving the drone.",
+    "tags": [
+      "drone",
+      "modal",
+      "dawn",
+      "world music",
+      "respectful study"
+    ]
+  },
+  {
+    "id": "DC-045",
+    "title": "Five-Second Victory",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "duration",
+      "melodic"
+    ],
+    "world": "game",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "The level is cleared, the treasure chest opens, the stars spin. You have exactly five seconds to make the player feel like a legend. Write the victory fanfare, then write the 'game over' sting, also five seconds.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Just the 5-second victory fanfare.",
+    "deep_version": "A set of four 3-5 second stingers for the same game: victory, game over, secret found, and level up, all sharing one melodic DNA.",
+    "tags": [
+      "game audio",
+      "fanfare",
+      "stinger",
+      "duration",
+      "micro"
+    ]
+  },
+  {
+    "id": "DC-046",
+    "title": "Press Start",
+    "day_slot": "tue_constraint",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "duration",
+      "form"
+    ],
+    "world": "game",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "The title screen: the music that plays while someone decides whether your game is worth their evening. Write a main-menu theme that loops seamlessly in exactly 16 bars and makes us want to press START. Promise the whole adventure without telling it.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "An 8-bar loop that ends exactly where it begins.",
+    "deep_version": "A polished 16-bar loop with a memorable hook, plus a 2-second 'start' sound that cuts it off when the player presses the button.",
+    "tags": [
+      "main menu",
+      "loop",
+      "game audio",
+      "hook"
+    ]
+  },
+  {
+    "id": "DC-047",
+    "title": "Trap Lullaby",
+    "day_slot": "wed_genre_swap",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "rhythmic",
+      "timbre_instrumentation"
+    ],
+    "world": "everyday",
+    "genre": "trap",
+    "difficulty": "medium",
+    "prompt": "Take a lullaby, either a public-domain one (Brahms, 'Twinkle, Twinkle', 'Arrorró mi niño', any traditional cradle song) or one you invent, and rebuild it as a trap track. 808s, hi-hat rolls, half-time drums... and it still has to put a baby to sleep. The challenge is tenderness at 140 bpm.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Lullaby melody on a soft synth over an 808 and a slow hi-hat pattern, 40 seconds.",
+    "deep_version": "A full track with intro, verse, a hook built on the lullaby melody and an outro where the beat drops out and only a music-box version remains.",
+    "tags": [
+      "trap",
+      "lullaby",
+      "genre swap",
+      "808",
+      "tenderness"
+    ]
+  },
+  {
+    "id": "DC-048",
+    "title": "Bolero for a Lonely Robot",
+    "day_slot": "wed_genre_swap",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "lyrics",
+      "harmonic"
+    ],
+    "world": "sci_fi",
+    "genre": "bolero",
+    "difficulty": "medium",
+    "prompt": "A maintenance robot on an abandoned space station learned about love from a single damaged cassette of 1950s boleros. Tonight it sings to the station's AI. Write that bolero: requinto guitar flourishes, a slow romantic sway, heartbroken lyrics, from a machine that isn't sure it's allowed to feel.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Four lines of lyrics and a verse melody over a classic bolero rhythm; the voice can be vocoded or robotic.",
+    "deep_version": "A complete bolero: guitar intro, two verses, a chorus, a requinto solo, and a robot voice that becomes slightly more human with every section.",
+    "tags": [
+      "bolero",
+      "lyrics",
+      "robot",
+      "romance",
+      "Latin"
+    ]
+  },
+  {
+    "id": "DC-049",
+    "title": "Lo-fi for a Ghost Who Studies",
+    "day_slot": "wed_genre_swap",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "timbre_instrumentation"
+    ],
+    "world": "horror",
+    "genre": "lo-fi hip hop",
+    "difficulty": "easy",
+    "prompt": "A friendly ghost has haunted the same library for 200 years and is finally studying for the exam she died before taking. Make her a lo-fi beat to study to: dusty drums, warm keys, vinyl crackle, and one small spooky sound hiding in the mix.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 1-minute lo-fi loop with one 'ghost' sound (a creak, a whisper, a reversed note).",
+    "deep_version": "A 2-3 minute lo-fi track with a short melodic theme, a chord change midway, and a final 'page turn' moment.",
+    "tags": [
+      "lo-fi",
+      "cozy horror",
+      "study beats",
+      "chill"
+    ]
+  },
+  {
+    "id": "DC-050",
+    "title": "Game Over, Grandpa",
+    "day_slot": "wed_genre_swap",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "timbre_instrumentation",
+      "form"
+    ],
+    "world": "comedy",
+    "genre": "chiptune",
+    "difficulty": "medium",
+    "prompt": "Write a funeral march, solemn, slow, dignified, using only 8-bit sounds: square waves, a triangle bass, the noise channel. Think of a public-domain funeral march played on a 1989 handheld console. Make it ridiculous and genuinely moving at the same time.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 30-second funeral march melody on a square wave with a triangle bass.",
+    "deep_version": "A full chiptune funeral (1:30-2:00) with three chip channels only, a 'eulogy' section where the melody turns tender, and a final 'continue? 10... 9... 8...' countdown.",
+    "tags": [
+      "chiptune",
+      "8-bit",
+      "funeral march",
+      "tragicomedy"
+    ]
+  },
+  {
+    "id": "DC-051",
+    "title": "Baroque Reggaeton",
+    "day_slot": "wed_genre_swap",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "rhythmic",
+      "harmonic"
+    ],
+    "world": "comedy",
+    "genre": "reggaeton",
+    "difficulty": "medium",
+    "prompt": "A harpsichord, a string section in powdered wigs, and the dembow rhythm. Write a piece where baroque counterpoint and reggaeton genuinely need each other. Not a joke stuck onto a beat: a true marriage.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Dembow beat + a harpsichord arpeggio in a baroque sequence (for example a circle of fifths), 30 seconds.",
+    "deep_version": "A full track with a two-voice baroque counterpoint over the dembow, a 'perreo' drop and a cadenza in the middle where the beat stops and the harpsichord shows off.",
+    "tags": [
+      "reggaeton",
+      "baroque",
+      "counterpoint",
+      "fusion",
+      "dembow"
+    ]
+  },
+  {
+    "id": "DC-052",
+    "title": "Bossa Nova for a Thunderstorm",
+    "day_slot": "wed_genre_swap",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "harmonic",
+      "rhythmic"
+    ],
+    "world": "nature",
+    "genre": "bossa nova",
+    "difficulty": "easy",
+    "prompt": "A summer thunderstorm, but in bossa nova: soft nylon guitar, brushed drums, lush seventh chords, and a melody that walks calmly while the sky falls apart. Bossa is the art of staying cool under pressure.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A bossa groove on two chords (try Dm7 to G7) with a short melody and a thunder sample.",
+    "deep_version": "A full bossa nova with an A section, a bridge that modulates as the storm peaks, and a final chord with rain only.",
+    "tags": [
+      "bossa nova",
+      "storm",
+      "jazz harmony",
+      "chill"
+    ]
+  },
+  {
+    "id": "DC-053",
+    "title": "Techno in the Cathedral",
+    "day_slot": "wed_genre_swap",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "timbre_instrumentation",
+      "form"
+    ],
+    "world": "abstract",
+    "genre": "techno / house",
+    "difficulty": "medium",
+    "prompt": "Imagine a 4/4 kick pulsing through a stone cathedral, with a pipe organ instead of synths, or an organ sound that turns into a synth. Write the piece where sacred architecture meets the club: huge reverb, long build-ups, chords that hang in the air for a full bar.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 4-on-the-floor kick with an organ chord progression and cathedral reverb, 45 seconds.",
+    "deep_version": "A 3-minute track with an organ intro (no beat), a slow techno build, a breakdown where a choir sample or your own voice enters, and a final drop.",
+    "tags": [
+      "techno",
+      "organ",
+      "reverb",
+      "build-up",
+      "club"
+    ]
+  },
+  {
+    "id": "DC-054",
+    "title": "Cumbia at the End of the World",
+    "day_slot": "wed_genre_swap",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "rhythmic",
+      "lyrics"
+    ],
+    "world": "sci_fi",
+    "genre": "cumbia",
+    "difficulty": "medium",
+    "prompt": "The asteroid hits in three hours. In the last plaza on Earth, a cumbia band refuses to stop playing. Write their final song: the güiro scraping, the accordion or synth line, people dancing because there's nothing left to do. Joyful, defiant, a little funny.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 45-second cumbia groove (güiro or shaker pattern, bass on 1 and 3, a simple melody).",
+    "deep_version": "A complete cumbia with an apocalyptic chorus you write and sing, a solo in the middle, and a final moment where the band hears the asteroid and plays one last chorus louder.",
+    "tags": [
+      "cumbia",
+      "apocalypse",
+      "dance",
+      "Latin",
+      "lyrics"
+    ]
+  },
+  {
+    "id": "DC-055",
+    "title": "Kettle Blues",
+    "day_slot": "wed_genre_swap",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "lyrics",
+      "form"
+    ],
+    "world": "comedy",
+    "genre": "blues",
+    "difficulty": "easy",
+    "prompt": "Write a 12-bar blues about a household object having a terrible day: the kettle that never gets thanked, the sock without its partner, the phone charger that 'only works at an angle'. The form is classic AAB: say a line, repeat it, answer it.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "One 12-bar chorus with AAB lyrics over a I-IV-V shuffle.",
+    "deep_version": "Three choruses with a solo in the middle (instrument or kazoo) and a final 'tag' ending.",
+    "tags": [
+      "blues",
+      "12-bar",
+      "lyrics",
+      "comedy",
+      "AAB"
+    ]
+  },
+  {
+    "id": "DC-056",
+    "title": "Phase Two",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "form",
+      "rhythmic"
+    ],
+    "world": "game",
+    "genre": "metal",
+    "difficulty": "hard",
+    "prompt": "The boss drops to 50% health, roars, and the arena floor collapses. Every great boss theme has a second phase that reveals what the first one was hiding. Write both: a phase-one loop and a phase-two transformation that feels like the same enemy finally showing its true face.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 16-bar loop for phase one plus an 8-bar 'transformation' stinger ending on a cliffhanger.",
+    "deep_version": "Two seamlessly loopable phases (40-60 seconds each) sharing a core motif, plus the transition: tempo up, key down, a new instrument family entering (a choir, distorted guitars). Make the loops actually loop.",
+    "tags": [
+      "boss fight",
+      "game audio",
+      "loop",
+      "transformation",
+      "leitmotif"
+    ]
+  },
+  {
+    "id": "DC-057",
+    "title": "Chorale for the Last Shift",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "harmonic",
+      "form"
+    ],
+    "world": "everyday",
+    "genre": "choral",
+    "difficulty": "hard",
+    "prompt": "The town's textile factory closes today after 112 years. At 6 p.m. the last workers walk out together. Write them a four-part chorale (soprano, alto, tenor, bass) in the tradition of Bach's harmonizations: one note per syllable, clear phrase endings, honest voice-leading. Dignity, not melodrama.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Harmonize one 8-bar hymn-like phrase in four voices (keyboard is fine).",
+    "deep_version": "Write words, melody and four-part harmony for a 4-phrase chorale, sing or play it in layers, and add a final verse where the bass imitates the factory whistle.",
+    "tags": [
+      "chorale",
+      "four-part harmony",
+      "Bach",
+      "dignity",
+      "working class"
+    ]
+  },
+  {
+    "id": "DC-058",
+    "title": "The Heist in Four Minutes",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "rhythmic",
+      "timbre_instrumentation"
+    ],
+    "world": "film",
+    "genre": "funk",
+    "difficulty": "medium",
+    "prompt": "Six thieves, one museum, a four-minute window before the guards change. Score the montage: the locks, the lasers, the vents, the near miss. Heist music lives on groove and precision, so every musical hit lands on a beat of the plan.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 45-second groove (drums, bass, one horn or synth riff) with three 'hits' for key moments.",
+    "deep_version": "A 2-minute cue structured like the plan: setup groove, rising tension (add a layer every 8 bars), the near-miss (everything stops for one bar), and the escape with the full band.",
+    "tags": [
+      "heist",
+      "montage",
+      "groove",
+      "film",
+      "hits"
+    ]
+  },
+  {
+    "id": "DC-059",
+    "title": "A Snail's Great Journey",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "form",
+      "rhythmic"
+    ],
+    "world": "nature",
+    "genre": "orchestral / cinematic",
+    "difficulty": "easy",
+    "prompt": "A nature documentary follows a snail across a garden path. To the snail it is a desert crossing: a three-hour epic. Score it with all the gravitas of a blockbuster, at snail speed.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A slow, majestic 30-second theme (very slow tempo, big chords).",
+    "deep_version": "A 2-minute epic in miniature: the departure, the 'storm' (a sprinkler), the 'giant' (a cat sniffing), and the triumphant arrival at a lettuce leaf.",
+    "tags": [
+      "nature documentary",
+      "mock-epic",
+      "comedy",
+      "slow"
+    ]
+  },
+  {
+    "id": "DC-060",
+    "title": "Something in the Walls",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "timbre_instrumentation",
+      "harmonic"
+    ],
+    "world": "horror",
+    "genre": "any",
+    "difficulty": "hard",
+    "prompt": "A family moves into an old house. Every night at 3:12 a.m., a scratching moves along the walls, from room to room, closer each time. Score the fifth night. No jump scare cliches: build dread from texture. Use extended techniques if you can: bowed cymbals, string scratches, prepared piano, breathing into a mic, a detuned radio.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 45-second texture of three unusual sounds that slowly move from left to right in the stereo field.",
+    "deep_version": "A 2-3 minute horror cue with no conventional melody, organized by distance (far, near, inside the room), with one moment of total silence before the scratching stops right behind the listener.",
+    "tags": [
+      "horror",
+      "extended techniques",
+      "sound design",
+      "dread",
+      "stereo"
+    ]
+  },
+  {
+    "id": "DC-061",
+    "title": "She Walked In",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "harmonic",
+      "timbre_instrumentation"
+    ],
+    "world": "film",
+    "genre": "jazz",
+    "difficulty": "medium",
+    "prompt": "1947. A detective's office, rain against the window, the blinds slicing the light. The door opens, and she walks in with a problem that will ruin him. Write the noir theme: muted trumpet or saxophone, minor chords with a ninth on top, a slow walking bass.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "An 8-bar noir melody over a minor-key progression (try Cm(maj7) to Fm9).",
+    "deep_version": "A 2-minute cue: rainy intro, her theme on solo saxophone or voice, the detective's weary counter-melody, and a final chord that tells us he'll take the case.",
+    "tags": [
+      "film noir",
+      "jazz",
+      "saxophone",
+      "1940s",
+      "minor ninths"
+    ]
+  },
+  {
+    "id": "DC-062",
+    "title": "The Unremarkable Hero",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "melodic",
+      "form"
+    ],
+    "world": "comedy",
+    "genre": "orchestral / cinematic",
+    "difficulty": "easy",
+    "prompt": "Meet our hero: his only superpower is always finding a parking spot. Write his theme with the full heroic treatment: brass, timpani, a rising perfect fifth, as if he were saving the planet.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 20-second heroic fanfare that sounds like a superhero intro.",
+    "deep_version": "A 1:30 cue: the heroic theme, a tense search through a packed parking lot, and the triumphant slide into the last space, with a final 'small car door' ending.",
+    "tags": [
+      "superhero",
+      "parody",
+      "brass",
+      "fanfare",
+      "comedy"
+    ]
+  },
+  {
+    "id": "DC-063",
+    "title": "Chase Reel, 1924",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "rhythmic",
+      "form"
+    ],
+    "world": "comedy",
+    "genre": "ragtime",
+    "difficulty": "hard",
+    "prompt": "A silent film: a baker on a bicycle chases a runaway wedding cake down a hill, through a market, and into a lake. Write the piano accompaniment the way the pianists in cinemas used to improvise it: ragtime energy, sudden stops, a musical 'hit' for every slapstick moment.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 30-second ragtime-style loop with a stride left hand (bass note, chord, bass note, chord).",
+    "deep_version": "A 2-minute through-composed chase with at least six slapstick hits (crash, skid, splash...), two tempo changes and a mock-tragic ending when the cake sinks. Bonus: make a short silent video to go with it.",
+    "tags": [
+      "silent film",
+      "ragtime",
+      "stride piano",
+      "slapstick",
+      "sync"
+    ]
+  },
+  {
+    "id": "DC-064",
+    "title": "Ghost in the Corridor",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "form",
+      "timbre_instrumentation"
+    ],
+    "world": "game",
+    "genre": "any",
+    "difficulty": "hard",
+    "prompt": "A stealth game: you're hiding in the ventilation shafts of a research lab, guards patrolling below. Game music here is adaptive: it changes with the player's danger. Compose three layers of the same piece that can stack on top of one another: 'hidden' (calm), 'suspicious' (a guard heard something) and 'alert' (you've been seen).",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Two layers only, 'hidden' and 'alert', 30 seconds each, same tempo and key, so that they work together.",
+    "deep_version": "Three 60-second synchronized layers (same tempo, key and loop point) plus a 3-second 'detected!' stinger. Upload a version that walks through all three states so we can hear the transitions.",
+    "tags": [
+      "stealth",
+      "adaptive music",
+      "game audio",
+      "layers",
+      "vertical remixing"
+    ]
+  },
+  {
+    "id": "DC-065",
+    "title": "Roll the Credits",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "form",
+      "harmonic"
+    ],
+    "world": "game",
+    "genre": "orchestral / cinematic",
+    "difficulty": "hard",
+    "prompt": "Forty hours of adventure are over. The final boss is gone, the screen fades to black, and the names begin to scroll. Write the end-credits suite: it should recall the journey (invent two or three earlier 'themes' and quote them) and leave the player with a lump in the throat.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 1-minute piano version of a farewell theme that ends with a major chord with an added sixth.",
+    "deep_version": "A 3-4 minute suite moving through three invented themes (hometown, battle, love), connected by transitions, ending with the hometown theme played by the full ensemble and then a single instrument.",
+    "tags": [
+      "end credits",
+      "suite",
+      "nostalgia",
+      "leitmotif",
+      "game audio"
+    ]
+  },
+  {
+    "id": "DC-066",
+    "title": "Nocturne for the Night Nurse",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "melodic",
+      "timbre_instrumentation"
+    ],
+    "world": "everyday",
+    "genre": "solo piano",
+    "difficulty": "medium",
+    "prompt": "It's 4 a.m. on a hospital ward. A nurse walks the corridor, checking on patients one by one, the only person awake in a building full of breathing. Write a nocturne in the spirit of Chopin's or Field's: a singing melody in the right hand, a wide, gentle accompaniment in the left.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 16-bar nocturne melody over a broken-chord accompaniment.",
+    "deep_version": "A complete 2-3 minute nocturne in ABA form: a calm A, an anxious B (an alarm, a hurry), and a return to A with a more ornamented melody.",
+    "tags": [
+      "nocturne",
+      "solo piano",
+      "Romantic era",
+      "night",
+      "care"
+    ]
+  },
+  {
+    "id": "DC-067",
+    "title": "Haul Away, Asteroid Crew",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "lyrics",
+      "rhythmic"
+    ],
+    "world": "sci_fi",
+    "genre": "folk / sea shanty",
+    "difficulty": "medium",
+    "prompt": "Two hundred years from now, a mining crew hauls ice from the asteroid belt, and they've revived the oldest work song form: the sea shanty. Write theirs: call and response, a stomping beat, verses about cheap oxygen, a strict captain and the long way home to Mars.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "One verse (call) and a chorus (response), sung and stomped, 30-45 seconds.",
+    "deep_version": "A full shanty with three verses telling a story, a chorus everyone can join, and layered 'crew' voices (all you, or friends). Optional: a spacey drone underneath.",
+    "tags": [
+      "sea shanty",
+      "work song",
+      "call and response",
+      "lyrics",
+      "sci-fi"
+    ]
+  },
+  {
+    "id": "DC-068",
+    "title": "Ballad of an Ordinary Hero",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "lyrics",
+      "form"
+    ],
+    "world": "everyday",
+    "genre": "corrido / regional Mexican",
+    "difficulty": "medium",
+    "prompt": "The corrido is a narrative ballad tradition from Mexico that has told the stories of revolutionaries, migrants and legends for over a century. Write one about an everyday hero you know: a bus driver, a nurse, a teacher, the neighbor who fixes everyone's bikes. Tell the story verse by verse, with dates, places and a farewell stanza, as the tradition asks.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Two verses with a simple waltz or polka rhythm on guitar.",
+    "deep_version": "A complete corrido (5-7 verses) with an opening that presents the hero, the deed, and the traditional farewell ('ya con esta me despido' or your English equivalent), arranged for guitar, bass and accordion or similar.",
+    "tags": [
+      "corrido",
+      "narrative ballad",
+      "lyrics",
+      "Mexican tradition",
+      "storytelling"
+    ]
+  },
+  {
+    "id": "DC-069",
+    "title": "The Door to Elsewhere",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "timbre_instrumentation",
+      "process"
+    ],
+    "world": "fantasy",
+    "genre": "musique concrete / sound design",
+    "difficulty": "medium",
+    "prompt": "In an empty room there is a door that leads to another dimension. Today you are the sound designer: design the sound of that door opening. No melody required. Its creak, its hum, the wind from the other side, the moment the light pours through.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 10-second sound effect made from at least three layered sources (one recorded by you).",
+    "deep_version": "A 45-90 second sound-design piece: the door, approaching footsteps, the opening, the other world's ambience leaking through, and the door slamming shut, mixed in stereo with pitch-shifting, reverse and granular textures.",
+    "tags": [
+      "sound design",
+      "foley",
+      "portal",
+      "layering",
+      "no melody"
+    ]
+  },
+  {
+    "id": "DC-070",
+    "title": "Breakfast, Then Robbery",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "process",
+      "timbre_instrumentation"
+    ],
+    "world": "film",
+    "genre": "musique concrete / sound design",
+    "difficulty": "medium",
+    "prompt": "Score a scene using only foley, everyday sounds with no pitched instruments: a family breakfast that turns, in two minutes, into a robbery planned under the kitchen table. Spoons become hi-hats, the toaster pops on the downbeat, the kettle whistle is your lead synth.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 30-second rhythmic piece using only breakfast sounds.",
+    "deep_version": "A 2-minute foley-only cue in two parts: cozy breakfast rhythm, then a heist groove made from the same sounds, faster, filtered, with a final 'ding' of the toaster.",
+    "tags": [
+      "foley",
+      "found sounds",
+      "rhythm",
+      "film",
+      "no instruments"
+    ]
+  },
+  {
+    "id": "DC-071",
+    "title": "Spellbook Menu",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "timbre_instrumentation",
+      "duration"
+    ],
+    "world": "game",
+    "genre": "musique concrete / sound design",
+    "difficulty": "easy",
+    "prompt": "A wizard game needs its menu sounds. Design six tiny UI sounds: open book, turn page, hover over a spell, select spell, not enough mana, close book. Each one must be under one second and they should all feel like they come from the same magical object.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Three of the six sounds, under a second each.",
+    "deep_version": "All six sounds plus a 20-second ambient menu loop that they sit on top of, uploaded as a short demo walking through the menu.",
+    "tags": [
+      "UI sounds",
+      "game audio",
+      "sound design",
+      "micro"
+    ]
+  },
+  {
+    "id": "DC-072",
+    "title": "The Salt Whistlers",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "melodic",
+      "process"
+    ],
+    "world": "imaginary_ethnography",
+    "genre": "any",
+    "difficulty": "hard",
+    "prompt": "Imagine a nomadic people who cross a salt desert and talk across the dunes by whistling, their whole language turned into melody. (Real whistled languages exist, like Silbo Gomero in the Canary Islands; listen to one with respect, then invent your own.) Compose a conversation between two caravans: questions, answers, a warning, a joke.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 30-second whistled call-and-response between two 'speakers', recorded by you.",
+    "deep_version": "A 2-3 minute piece in which the whistled dialogue is the melody, supported by invented instruments of salt and hide (shakers, frame drums, bowed metal), with a written key of what each phrase 'means'.",
+    "tags": [
+      "imaginary culture",
+      "whistling",
+      "call and response",
+      "desert",
+      "invented language"
+    ]
+  },
+  {
+    "id": "DC-073",
+    "title": "The Island of Bells",
+    "day_slot": "thu_story_cue",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "harmonic",
+      "timbre_instrumentation"
+    ],
+    "world": "imaginary_ethnography",
+    "genre": "any",
+    "difficulty": "hard",
+    "prompt": "On a remote island every house has its own bell, cast by the family and tuned to its own note. When two people marry, the families' bells are tuned until they sound good together. Compose the music of a wedding day on the island: dozens of bells, slightly out of tune with each other, slowly finding agreement.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Two bell sounds (real, sampled or synthesized) slightly out of tune, gradually tuning to each other over 30 seconds.",
+    "deep_version": "A 2-3 minute piece for bells and voices: the procession (many clashing bells), the ceremony (two bells tuning), and the celebration (a new chord the island has never heard). Try detuning in cents, or an invented tuning system.",
+    "tags": [
+      "imaginary culture",
+      "bells",
+      "tuning",
+      "microtones",
+      "wedding"
+    ]
+  },
+  {
+    "id": "DC-074",
+    "title": "Beginner's Mind",
+    "day_slot": "fri_wild_card",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "process",
+      "timbre_instrumentation"
+    ],
+    "world": "everyday",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "Play an instrument you don't know how to play: a borrowed ukulele, a melodica, your kid's recorder, a harmonica from a drawer, a free piano app if you're a drummer. Expertise is not invited today. Find what this instrument wants to say when nobody's forcing it.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Explore for 10 minutes, then record a 30-second piece using only the three sounds you liked best.",
+    "deep_version": "A 2-minute piece on the unfamiliar instrument, multitracked if you like. Embrace squeaks, buzzes and wrong fingerings as part of the palette.",
+    "tags": [
+      "unfamiliar instrument",
+      "beginner's mind",
+      "process",
+      "exploration"
+    ]
+  },
+  {
+    "id": "DC-075",
+    "title": "No Undo",
+    "day_slot": "fri_wild_card",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "process"
+    ],
+    "world": "everyday",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "One take. Press record, play, stop. No editing, no punch-ins, no second tries, no fixing the mix. Whatever happens, happens, and the mistakes are part of today's art. Decide what you'll play before you press record, then let go.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A single take of 1 minute or less.",
+    "deep_version": "A single take of 3-4 minutes, prepared all afternoon (practice as much as you want), recorded once. Tell us how many times you were tempted to start over.",
+    "tags": [
+      "one take",
+      "performance",
+      "process",
+      "live"
+    ]
+  },
+  {
+    "id": "DC-076",
+    "title": "Wrong on Purpose",
+    "day_slot": "fri_wild_card",
+    "credit": "Claude",
+    "format": "odd_rule",
+    "constraints": [
+      "melodic",
+      "harmonic"
+    ],
+    "world": "abstract",
+    "genre": "any",
+    "difficulty": "medium",
+    "prompt": "Today's rule: every phrase must end on a 'wrong' note, one that is outside the key. The trick is to make the wrong note feel inevitable, like the only right answer. Think of it as composing punchlines.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Four phrases, each ending on a different out-of-key note, 30-45 seconds.",
+    "deep_version": "A complete piece where the 'wrong' endings gradually become the new normal, until the final phrase ends on the tonic and sounds like the strangest note of all.",
+    "tags": [
+      "odd rule",
+      "chromaticism",
+      "surprise",
+      "expectation"
+    ]
+  },
+  {
+    "id": "DC-077",
+    "title": "Running Out of Time",
+    "day_slot": "fri_wild_card",
+    "credit": "Claude",
+    "format": "odd_rule",
+    "constraints": [
+      "rhythmic",
+      "duration"
+    ],
+    "world": "abstract",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "Start at 160 bpm. Every 8 bars, the tempo drops by 10 bpm. Keep going until you reach 60 bpm (or slower, if you dare). What starts as a sprint must end as a heartbeat, and the music has to make that journey feel like a story.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Do it with a single repeated riff: 160 to 100 bpm in six steps.",
+    "deep_version": "A full piece from 160 to 60 bpm (eleven sections) where the genre changes as it slows (drum and bass, house, hip hop, ballad, dirge...) while one melody stays recognizable throughout.",
+    "tags": [
+      "odd rule",
+      "tempo",
+      "ritardando",
+      "genre morph"
+    ]
+  },
+  {
+    "id": "DC-078",
+    "title": "Your Name in Notes",
+    "day_slot": "fri_wild_card",
+    "credit": "Claude",
+    "format": "odd_rule",
+    "constraints": [
+      "melodic"
+    ],
+    "world": "abstract",
+    "genre": "any",
+    "difficulty": "medium",
+    "prompt": "Bach signed his name in music: B-A-C-H (in German, B is B-flat and H is B-natural). Turn your name into a melody using a musical cryptogram: map each letter to a note (A to G stay as they are; for other letters use the cycle H=A, I=B, J=C... and so on). That motif is the seed of today's piece.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Find your name's notes and play them as a melody with your own rhythm, repeated and varied, 30 seconds.",
+    "deep_version": "A full piece built on your name motif and on the name of someone you love, as two themes that meet in the final section.",
+    "tags": [
+      "odd rule",
+      "cryptogram",
+      "BACH",
+      "motif",
+      "personal"
+    ]
+  },
+  {
+    "id": "DC-079",
+    "title": "The Palindrome",
+    "day_slot": "fri_wild_card",
+    "credit": "Claude",
+    "format": "odd_rule",
+    "constraints": [
+      "form",
+      "melodic"
+    ],
+    "world": "abstract",
+    "genre": "any",
+    "difficulty": "hard",
+    "prompt": "Write a piece that is the same forwards and backwards: the second half is the first half in reverse, note by note (Haydn and Machaut both did this). The challenge is making the turnaround point feel like the heart of the piece, not just a mirror.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 4-bar melody followed by its exact retrograde (8 bars in total).",
+    "deep_version": "A 1:30-2:00 piece with harmony and accompaniment that is fully palindromic. Bonus: actually reverse your recording at the end and show that it sounds (almost) the same.",
+    "tags": [
+      "odd rule",
+      "palindrome",
+      "retrograde",
+      "symmetry",
+      "advanced"
+    ]
+  },
+  {
+    "id": "DC-080",
+    "title": "Rust",
+    "day_slot": "fri_wild_card",
+    "credit": "Claude",
+    "format": "word",
+    "constraints": [
+      "timbre_instrumentation"
+    ],
+    "world": "abstract",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "Today's word is RUST. Take it any way you like: the sound of rusty metal, a rusty skill you haven't played in years, a decaying memory, an old car in a field, the color of autumn.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 30-second sketch inspired by the word, in any style.",
+    "deep_version": "A 2-minute piece that explores at least two meanings of the word, with one sound you recorded from real rusty metal.",
+    "tags": [
+      "one word",
+      "texture",
+      "decay",
+      "open interpretation"
+    ]
+  },
+  {
+    "id": "DC-081",
+    "title": "Almost",
+    "day_slot": "fri_wild_card",
+    "credit": "Claude",
+    "format": "word",
+    "constraints": [
+      "harmonic",
+      "form"
+    ],
+    "world": "abstract",
+    "genre": "any",
+    "difficulty": "medium",
+    "prompt": "Today's word is ALMOST. Almost a kiss, almost on time, almost a resolution, almost the right note. Write music about the space between nearly and actually.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 45-second piece whose final chord almost resolves.",
+    "deep_version": "A 2-minute piece built on deceptive cadences and near-misses, where the tension keeps 'almost' releasing, until it does, once, in the most unexpected place.",
+    "tags": [
+      "one word",
+      "deceptive cadence",
+      "tension",
+      "longing"
+    ]
+  },
+  {
+    "id": "DC-082",
+    "title": "Hiraeth",
+    "day_slot": "fri_wild_card",
+    "credit": "Claude",
+    "format": "word",
+    "constraints": [
+      "melodic",
+      "harmonic"
+    ],
+    "world": "abstract",
+    "genre": "any",
+    "difficulty": "medium",
+    "prompt": "Hiraeth is a Welsh word with no exact English translation: a homesickness for a home you can't return to, or that maybe never existed. Write that feeling. Nostalgia is easy; hiraeth is nostalgia with no address.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 1-minute melody that feels like a memory of a place.",
+    "deep_version": "A 2-3 minute piece in which a 'home' theme is heard only in fragments, as if remembered from far away, and never fully appears.",
+    "tags": [
+      "one word",
+      "nostalgia",
+      "longing",
+      "untranslatable",
+      "Welsh"
+    ]
+  },
+  {
+    "id": "DC-083",
+    "title": "A Jingle for a Product That Shouldn't Exist",
+    "day_slot": "fri_wild_card",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "lyrics",
+      "duration"
+    ],
+    "world": "comedy",
+    "genre": "pop",
+    "difficulty": "easy",
+    "prompt": "Invent a terrible product (waterproof sugar cubes, a subscription service for single socks, a cloud-connected pencil) and write its 15-second radio jingle. Catchy, over-the-top, with a slogan we'll still be singing tomorrow.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 15-second sung jingle with the product name and slogan.",
+    "deep_version": "A 30-second jingle plus a 60-second 'extended ad' version with a fake testimonial, a key change and a fast-spoken legal disclaimer at the end.",
+    "tags": [
+      "jingle",
+      "comedy",
+      "lyrics",
+      "pop",
+      "advertising parody"
+    ]
+  },
+  {
+    "id": "DC-084",
+    "title": "Spoken Word at 3 A.M.",
+    "day_slot": "fri_wild_card",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "lyrics",
+      "timbre_instrumentation"
+    ],
+    "world": "abstract",
+    "genre": "ambient",
+    "difficulty": "easy",
+    "prompt": "Write a short poem about something you only think about at 3 a.m. and record yourself speaking it over an ambient bed you make. Your speaking voice is the melody: its rhythm, its pauses, the breath before the last line.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 4-line spoken text over a single sustained chord.",
+    "deep_version": "A 2-minute spoken-word piece where the music responds to the text: it swells, drops out on a key word, and resolves only after the last line.",
+    "tags": [
+      "spoken word",
+      "poetry",
+      "voice",
+      "ambient",
+      "lyrics"
+    ]
+  },
+  {
+    "id": "DC-085",
+    "title": "Voice Memo Symphony",
+    "day_slot": "fri_wild_card",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "process",
+      "timbre_instrumentation"
+    ],
+    "world": "everyday",
+    "genre": "musique concrete / sound design",
+    "difficulty": "medium",
+    "prompt": "Go out with your phone and record ten voice memos from your day: a bus brake, birds, a shop door, a conversation in the distance (no identifiable private talk), a fountain. Back home, build a piece out of nothing but those ten recordings.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Choose three recordings and loop and layer them into a 30-second rhythm.",
+    "deep_version": "A 2-3 minute piece in which your ten recordings become instruments (one pitched up as a melody, one as bass, one as percussion), shaped as a portrait of your day from morning to night.",
+    "tags": [
+      "field recording",
+      "musique concrete",
+      "phone",
+      "everyday",
+      "process"
+    ]
+  },
+  {
+    "id": "DC-086",
+    "title": "Opera of Read Receipts",
+    "day_slot": "fri_wild_card",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "lyrics",
+      "form"
+    ],
+    "world": "comedy",
+    "genre": "chamber music",
+    "difficulty": "hard",
+    "prompt": "Set an (invented) text-message conversation as an opera scene: recitative for the 'typing...' moments, a grand aria for the passive-aggressive reply, a tragic duet when both are 'seen' and nobody answers. Write the dialogue, then compose it with full operatic seriousness.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Sing one text message as an operatic recitative over a few piano chords.",
+    "deep_version": "A 3-minute scene for two voices (you can sing both) and piano or small ensemble: recitative, aria, duet, and a final notification 'ding' as a cadence.",
+    "tags": [
+      "opera",
+      "aria",
+      "recitative",
+      "comedy",
+      "lyrics"
+    ]
+  },
+  {
+    "id": "DC-087",
+    "title": "The Cat Composed It",
+    "day_slot": "sat_community_pick",
+    "credit": "community (sample)",
+    "format": "odd_rule",
+    "constraints": [
+      "melodic",
+      "process"
+    ],
+    "world": "comedy",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "Suggested by @nocturnal_keys: 'My cat walked across my keyboard and it was better than my last album.' Today, let chance write your melody: roll a die (or use a random number generator) eight times and map 1-7 to the degrees of a scale (6 = rest, 7 = high tonic, or your own rules). Your job is to make that random line sound intentional.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Roll eight notes, give them a rhythm and harmonize them with two chords.",
+    "deep_version": "Roll 16 notes and build a full piece where the random melody is the main theme, with your own development and a coda that 'explains' the randomness.",
+    "tags": [
+      "chance music",
+      "dice",
+      "random",
+      "community",
+      "comedy"
+    ]
+  },
+  {
+    "id": "DC-088",
+    "title": "Stuck Between Floors",
+    "day_slot": "sat_community_pick",
+    "credit": "community (sample)",
+    "format": "text_only",
+    "constraints": [
+      "timbre_instrumentation",
+      "harmonic"
+    ],
+    "world": "comedy",
+    "genre": "bossa nova",
+    "difficulty": "easy",
+    "prompt": "Suggested by @liftmusic_larry: 'Elevator music, but the elevator is stuck.' Write the smoothest, most relaxing elevator music ever, which slowly realizes it has been looping for three hours and that nobody is coming.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 30-second smooth-jazz loop that gets slightly slower and more detuned each time it repeats.",
+    "deep_version": "A 2-minute piece: cheerful muzak, a creeping existential crisis (strange chords, a stuck note), and a final 'ding' as the doors open.",
+    "tags": [
+      "muzak",
+      "comedy",
+      "elevator",
+      "community",
+      "decay"
+    ]
+  },
+  {
+    "id": "DC-089",
+    "title": "Grandma's Recipe",
+    "day_slot": "sat_community_pick",
+    "credit": "community (sample)",
+    "format": "text_only",
+    "constraints": [
+      "form",
+      "process"
+    ],
+    "world": "everyday",
+    "genre": "indie folk",
+    "difficulty": "medium",
+    "prompt": "Suggested by @sofi.compone: 'A song where each section is a step of a family recipe.' Pick a recipe from your family (or invent one). Every step is a section: chopping (rhythmic), simmering (slow pads), the secret ingredient (a surprise chord). Record a few real kitchen sounds as you cook it.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Three steps of the recipe as three 10-second musical sections.",
+    "deep_version": "A full 'recipe song' (2-3 min) following every step, with real cooking sounds and, if you like, a sung verse with the recipe as lyrics.",
+    "tags": [
+      "family",
+      "recipe",
+      "form",
+      "folk",
+      "community"
+    ]
+  },
+  {
+    "id": "DC-090",
+    "title": "Theme for the Number 47 Bus",
+    "day_slot": "sat_community_pick",
+    "credit": "community (sample)",
+    "format": "text_only",
+    "constraints": [
+      "rhythmic",
+      "melodic"
+    ],
+    "world": "everyday",
+    "genre": "any",
+    "difficulty": "medium",
+    "prompt": "Suggested by @route66bars: 'Every bus line deserves its own theme song.' Take a bus or train line from your city and give it a theme: its route, its regular passengers, its potholes, its stops. Each stop can be a chord change.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 30-second theme with a bouncing 'engine' rhythm and a melody that 'stops' every 4 bars.",
+    "deep_version": "A 2-minute piece that travels the entire route: the depot, rush hour, the quiet stretch by the river, the end of the line, with stop announcements (spoken or sampled) as part of the music.",
+    "tags": [
+      "city",
+      "transport",
+      "theme song",
+      "community"
+    ]
+  },
+  {
+    "id": "DC-091",
+    "title": "Unplugged at Blackout",
+    "day_slot": "sat_community_pick",
+    "credit": "community (sample)",
+    "format": "text_only",
+    "constraints": [
+      "timbre_instrumentation",
+      "process"
+    ],
+    "world": "everyday",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "Suggested by @blackout_beats: 'The power is out in the whole city. What do you play by candlelight?' No electricity today: acoustic instruments, voice, objects, recorded on a battery-powered phone. Make it the song you'd play in the dark for the people next to you.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 1-minute acoustic piece recorded by candlelight (or with the lights off).",
+    "deep_version": "A 2-3 minute song with lyrics about the night of the blackout, accompanied only by acoustic sounds.",
+    "tags": [
+      "unplugged",
+      "acoustic",
+      "candlelight",
+      "intimate",
+      "community"
+    ]
+  },
+  {
+    "id": "DC-092",
+    "title": "The Underdog Anthem",
+    "day_slot": "sat_community_pick",
+    "credit": "community (sample)",
+    "format": "text_only",
+    "constraints": [
+      "form",
+      "harmonic"
+    ],
+    "world": "everyday",
+    "genre": "rock",
+    "difficulty": "medium",
+    "prompt": "Suggested by @stadium_strings: 'The worst team in the league finally wins one game.' Write the stadium anthem: drums you can stomp to, a chant the crowd can sing, and the emotional lift of fifteen years of losing turning into one glorious night.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 30-second stomp-stomp-clap groove with a 4-word crowd chant.",
+    "deep_version": "A 2-3 minute anthem with a humble verse, a building pre-chorus and a massive chorus with layered gang vocals, ending with a final chant over the drums alone.",
+    "tags": [
+      "anthem",
+      "sports",
+      "rock",
+      "chant",
+      "community"
+    ]
+  },
+  {
+    "id": "DC-093",
+    "title": "The Villain's Day Off",
+    "day_slot": "sat_community_pick",
+    "credit": "community (sample)",
+    "format": "text_only",
+    "constraints": [
+      "melodic",
+      "form"
+    ],
+    "world": "comedy",
+    "genre": "orchestral / cinematic",
+    "difficulty": "medium",
+    "prompt": "Suggested by @darkmode_dan: 'Even the Dark Lord does laundry.' Take a sinister villain theme (brass, low choir, minor key) and follow the villain through a peaceful Sunday: the laundromat, watering the plants, a nap. The theme must stay recognizable while getting cozier and cozier.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 4-bar menacing villain motif, then the same motif as a gentle music-box version.",
+    "deep_version": "A 2-minute cue: the full evil theme, then four 'errands' each with a softer version (a bossa at the laundromat, a waltz with the plants...), and a sudden full-evil return when someone takes his parking space.",
+    "tags": [
+      "villain",
+      "leitmotif",
+      "comedy",
+      "transformation",
+      "community"
+    ]
+  },
+  {
+    "id": "DC-094",
+    "title": "Time-Lapse of a Seed",
+    "day_slot": "sat_community_pick",
+    "credit": "community (sample)",
+    "format": "text_only",
+    "constraints": [
+      "form",
+      "duration"
+    ],
+    "world": "nature",
+    "genre": "minimalism",
+    "difficulty": "hard",
+    "prompt": "Suggested by @fern.frequencies: 'Soundtrack for a plant growing, in time-lapse.' Write a piece of exactly 3 minutes in which something grows continuously from almost nothing to full bloom, using additive process: start with one note and add one element at regular intervals, never removing anything until the very end.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 1-minute additive piece: one note every 4 bars becoming a full chord.",
+    "deep_version": "Exactly 3:00, strictly additive (a new element every 10-15 seconds), carefully orchestrated so it never gets muddy, with a final 'flower' moment and then a single falling petal.",
+    "tags": [
+      "minimalism",
+      "additive process",
+      "growth",
+      "time-lapse",
+      "community"
+    ]
+  },
+  {
+    "id": "DC-095",
+    "title": "Save Room",
+    "day_slot": "sun_free_remix",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "duration",
+      "timbre_instrumentation"
+    ],
+    "world": "game",
+    "genre": "chiptune",
+    "difficulty": "easy",
+    "prompt": "After an hour of monsters and dark corridors, you push open a door: a warm room, a typewriter, a flickering fire. Nothing can hurt you here. Write the music of safety, the theme players will remember twenty years from now because it meant 'you can breathe.'",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 30-second seamless loop with four chords and a gentle melody.",
+    "deep_version": "A 90-second loop with an A section, a short B section and a perfect loop point, with one small detail changing on each pass so it never gets tiring.",
+    "tags": [
+      "save room",
+      "game audio",
+      "loop",
+      "safety",
+      "cozy"
+    ]
+  },
+  {
+    "id": "DC-096",
+    "title": "Pass the Baton",
+    "day_slot": "sun_free_remix",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "process",
+      "form"
+    ],
+    "world": "abstract",
+    "genre": "any",
+    "difficulty": "medium",
+    "prompt": "Remix Sunday: choose another member's entry from this week (credit them!) and continue it. Pick up exactly where their recording ends, as if they had passed you the baton in a relay race. Keep their material recognizable and take it somewhere they didn't go.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Add 30 seconds that continue their idea seamlessly.",
+    "deep_version": "A 2-3 minute 'second movement' to their piece, developing their main motif in a new tempo, key or genre, with a final callback to their opening.",
+    "tags": [
+      "remix",
+      "collaboration",
+      "continuation",
+      "community",
+      "credit"
+    ]
+  },
+  {
+    "id": "DC-097",
+    "title": "Flip Your Own",
+    "day_slot": "sun_free_remix",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "process"
+    ],
+    "world": "abstract",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "Go back to one of your own entries from the past weeks and flip it into the opposite genre: if it was orchestral, make it lo-fi; if it was a beat, write it for string quartet; if it was sad, make it a dance track. The melody stays; everything else changes.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Same melody, new instrument and tempo, 30-45 seconds.",
+    "deep_version": "A complete reinterpretation in a genre you have never posted before, with a new arrangement, form and mix.",
+    "tags": [
+      "remix",
+      "self-remix",
+      "genre flip",
+      "reinterpretation"
+    ]
+  },
+  {
+    "id": "DC-098",
+    "title": "Free Sunday",
+    "day_slot": "sun_free_remix",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [],
+    "world": "abstract",
+    "genre": "any",
+    "difficulty": "easy",
+    "prompt": "No prompt, no rule. Write whatever has been in your head all week, finish the idea you abandoned, or just play something for the pleasure of it. Rest is part of composing too.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "Upload any musical idea, even 15 seconds.",
+    "deep_version": "Finish something you've been wanting to finish, and tell the community in one sentence what it is.",
+    "tags": [
+      "free",
+      "open",
+      "rest",
+      "community"
+    ]
+  },
+  {
+    "id": "DC-099",
+    "title": "The Unfinished Postcard",
+    "day_slot": "sun_free_remix",
+    "credit": "Claude",
+    "format": "seed",
+    "constraints": [
+      "melodic",
+      "form"
+    ],
+    "world": "everyday",
+    "genre": "any",
+    "difficulty": "medium",
+    "prompt": "Someone started this melody on the back of a postcard from the seaside, and the ink ran out after four bars. Continue it: at least 12 more bars, any genre, any instrumentation. Respect where it was heading, or take it somewhere it never imagined.",
+    "twist": null,
+    "image_prompt": null,
+    "seed": "C major, 3/4, four bars: | E4 G4 C5 | B4 (dotted quarter) A4 (eighth) G4 | F4 A4 D5 | C5 (dotted half) |",
+    "quick_version": "Add 4 bars that answer the seed and record all 8.",
+    "deep_version": "Complete a 32-bar song form (AABA) starting from the seed, with harmony, an arrangement and, if you like, lyrics for the postcard.",
+    "tags": [
+      "seed",
+      "continuation",
+      "melody",
+      "song form"
+    ]
+  },
+  {
+    "id": "DC-100",
+    "title": "Nostalgia for a Year You Never Lived",
+    "day_slot": "wed_genre_swap",
+    "credit": "Claude",
+    "format": "text_only",
+    "constraints": [
+      "timbre_instrumentation",
+      "harmonic"
+    ],
+    "world": "abstract",
+    "genre": "synthwave",
+    "difficulty": "easy",
+    "prompt": "Pick a year before you were born and write the music of your nostalgia for it, in synthwave: gated-reverb drums, warm analog-style pads, a melody that sounds like a sunset seen through a car window. You can't miss what you never had... or can you?",
+    "twist": null,
+    "image_prompt": null,
+    "seed": null,
+    "quick_version": "A 45-second loop: drum machine, a sustained pad and an 8-bar lead melody.",
+    "deep_version": "A 2-3 minute track with intro, verse, a soaring chorus, and an outro that fades out like a cassette slowly running out of tape.",
+    "tags": [
+      "synthwave",
+      "retro",
+      "nostalgia",
+      "80s sound",
+      "genre swap"
+    ]
+  }
+]
