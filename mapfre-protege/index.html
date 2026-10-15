@@ -917,12 +917,19 @@ h3{color:var(--tx)}
     if (!FIJO) return;
     var cs = getComputedStyle(document.documentElement);
     var w = parseFloat(cs.getPropertyValue("--lienzo-w")) || 1440, hh = parseFloat(cs.getPropertyValue("--lienzo-h")) || 810;
+    // Un marco oculto (pestaña de un LMS que aún no se muestra) mide 0×0: no
+    // se escala a cero; se espera a que tenga tamaño.
+    if (!window.innerWidth || !window.innerHeight) return;
     escenario.style.setProperty("--escala", Math.min(window.innerWidth / w, window.innerHeight / hh));
     var cab = document.getElementById("cabecera"), pie = document.getElementById("pie");
     escenario.style.setProperty("--cab-h", cab.offsetHeight + "px");
     escenario.style.setProperty("--pie-h", pie.offsetHeight + "px");
   }
-  if (FIJO) { window.addEventListener("resize", escalar); escalar(); }
+  if (FIJO) {
+    window.addEventListener("resize", escalar);
+    if (window.ResizeObserver) new ResizeObserver(escalar).observe(document.documentElement);
+    escalar();
+  }
   function desplazado() { return FIJO ? main.scrollTop : window.scrollY; }
   function desplazarA(y) { if (FIJO) main.scrollTop = y; else window.scrollTo(0, y); }
   // Ventanas y avisos flotantes: dentro del escenario si lo hay (así escalan con él).
